@@ -8,6 +8,10 @@
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<RepositoryUrl>https://github.com/abolfazlSadeqi/Hs_BaseModelsUtilities</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
+		<Description> is a comprehensive, modular, and reusable C# utility library designed to serve as a foundation for enterprise-level applications.  
+It provides **standardized configurations, constants, enums, domain models, interfaces, custom exceptions, and implementations of common design patterns** to accelerate development, ensure maintainability, and promote code consistency.
+</Description>
+		
 	</PropertyGroup>
 
 	<ItemGroup>
