@@ -1,4 +1,7 @@
-﻿namespace Hs_BaseModelsUtilities.Models.Common
+﻿using System;
+using System.Collections.Generic;
+
+namespace Hs_BaseModelsUtilities.Models.Common
 
 {
 

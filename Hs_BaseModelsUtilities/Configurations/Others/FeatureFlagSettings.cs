@@ -1,4 +1,6 @@
-﻿namespace Hs_BaseModelsUtilities.Configurations.Others
+﻿using System.Collections.Generic;
+
+namespace Hs_BaseModelsUtilities.Configurations.Others
 {
     /// <summary>
     /// Feature flag settings to enable/disable features dynamically

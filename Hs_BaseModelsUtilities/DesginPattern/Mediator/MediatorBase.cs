@@ -1,4 +1,8 @@
-﻿namespace Hs_BaseModelsUtilities.DesginPattern.Mediator
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace Hs_BaseModelsUtilities.DesginPattern.Mediator
 {
     public class MediatorBase : IMediator
     {

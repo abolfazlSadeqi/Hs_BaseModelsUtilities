@@ -1,4 +1,6 @@
-﻿namespace Hs_BaseModelsUtilities.Models.Common
+﻿using System;
+
+namespace Hs_BaseModelsUtilities.Models.Common
 
 {
 

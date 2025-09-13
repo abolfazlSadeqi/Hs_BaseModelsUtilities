@@ -1,4 +1,6 @@
-﻿namespace Hs_BaseModelsUtilities.DesginPattern.Factory
+﻿using System;
+
+namespace Hs_BaseModelsUtilities.DesginPattern.Factory
 {
    
     public class FactoryBase<T> : IFactory<T> where T : class

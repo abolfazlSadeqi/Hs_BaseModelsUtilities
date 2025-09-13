@@ -1,4 +1,7 @@
-﻿namespace Hs_BaseModelsUtilities.Models.Domian.ValueObjects
+﻿using System.Collections.Generic;
+using System.Linq;
+
+namespace Hs_BaseModelsUtilities.Models.Domian.ValueObjects
 {
     /// <summary>
     /// Base class for immutable value objects

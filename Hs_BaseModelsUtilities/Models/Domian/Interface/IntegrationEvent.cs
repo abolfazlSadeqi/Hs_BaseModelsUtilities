@@ -1,4 +1,6 @@
-﻿namespace Hs_BaseModelsUtilities.Models.Domian.Interface
+﻿using System;
+
+namespace Hs_BaseModelsUtilities.Models.Domian.Interface
 {
     /// <summary>
     /// Base class for integration events

@@ -1,6 +1,8 @@
 ﻿# Hs_BaseModelsUtilities
 
-**Hs_BaseModelsUtilities** is a comprehensive, modular, and reusable C# utility library designed to serve as a foundation for enterprise-level applications.  
+**Hs_BaseModelsUtilities** 
+
+  is a comprehensive, modular, and reusable C# utility library designed to serve as a foundation for enterprise-level applications.  
 It provides **standardized configurations, constants, enums, domain models, interfaces, custom exceptions, and implementations of common design patterns** to accelerate development, ensure maintainability, and promote code consistency.
 
 This library is designed to be **highly extensible**, making it suitable for projects that require:
@@ -112,6 +114,7 @@ Interfaces provide contracts for core functionality and services:
 ---
 
 ### 7. Models
+
 Provides reusable domain and common models:
 
 - **Common:** `AuditableResult`, `AuditInfo`, `DataResult`, `ErrorResult`, `PagedResponse`, `Pagination`, `QueryRequest`, `ServiceResponse`, `UserContext`, `TenantContext`, `ValidationError`  

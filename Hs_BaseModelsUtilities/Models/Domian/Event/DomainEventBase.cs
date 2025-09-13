@@ -1,4 +1,5 @@
 ﻿using Hs_BaseModelsUtilities.Models.Domian.Interface;
+using System;
 
 namespace Hs_BaseModelsUtilities.Models.Domian.Event
 {

@@ -1,4 +1,6 @@
-﻿namespace Hs_BaseModelsUtilities.Models.Domian.ValueObjects
+﻿using System.Collections.Generic;
+
+namespace Hs_BaseModelsUtilities.Models.Domian.ValueObjects
 {
     /// <summary>
     /// Address Value Object

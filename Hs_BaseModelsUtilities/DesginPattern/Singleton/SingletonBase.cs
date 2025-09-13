@@ -1,4 +1,6 @@
-﻿namespace Hs_BaseModelsUtilities.DesginPattern.Singleton
+﻿using System;
+
+namespace Hs_BaseModelsUtilities.DesginPattern.Singleton
 {
 
     /// <summary>

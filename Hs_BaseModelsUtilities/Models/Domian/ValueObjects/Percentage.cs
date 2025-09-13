@@ -1,4 +1,7 @@
-﻿namespace Hs_BaseModelsUtilities.Models.Domian.ValueObjects
+﻿using System;
+using System.Collections.Generic;
+
+namespace Hs_BaseModelsUtilities.Models.Domian.ValueObjects
 {
     /// <summary>
     /// Percentage Value Object

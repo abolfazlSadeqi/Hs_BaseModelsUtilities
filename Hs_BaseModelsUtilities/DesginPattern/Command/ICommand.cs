@@ -1,4 +1,6 @@
-﻿namespace Hs_BaseModelsUtilities.DesginPattern.Command
+﻿using System.Threading.Tasks;
+
+namespace Hs_BaseModelsUtilities.DesginPattern.Command
 {
 
     public interface ICommand

@@ -1,4 +1,6 @@
-﻿namespace Hs_BaseModelsUtilities.DesginPattern.Composite
+﻿using System.Collections.Generic;
+
+namespace Hs_BaseModelsUtilities.DesginPattern.Composite
 {
     public interface IComponentComposite
     {

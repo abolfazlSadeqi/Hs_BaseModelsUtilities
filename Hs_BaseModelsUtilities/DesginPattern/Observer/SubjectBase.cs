@@ -1,4 +1,6 @@
-﻿namespace Hs_BaseModelsUtilities.DesginPattern.Observer
+﻿using System.Collections.Generic;
+
+namespace Hs_BaseModelsUtilities.DesginPattern.Observer
 {
    
     public class SubjectBase<T> : ISubject<T>
